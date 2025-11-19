@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2025-11-17T07:27:46.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" version="23.1.5" etag="jK9o4Axq7nCY9IVAy-_1" type="device">
+  <diagram id="WjkIYWrDgp_GgJMDwFW2" name="Страница — 1">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J7pSCAPXr1lxiTX5ze97-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="580" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="J7pSCAPXr1lxiTX5ze97-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="520" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="J7pSCAPXr1lxiTX5ze97-3" value="К расписанию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J7pSCAPXr1lxiTX5ze97-4" value="Добавить нового пользователя" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J7pSCAPXr1lxiTX5ze97-6" value="Выход" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J7pSCAPXr1lxiTX5ze97-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="580" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="J7pSCAPXr1lxiTX5ze97-8" value="Назад" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J7pSCAPXr1lxiTX5ze97-9" value="Добавить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="800" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
